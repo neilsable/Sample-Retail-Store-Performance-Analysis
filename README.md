@@ -3,7 +3,7 @@ Interactive Excel dashboard analyzing Vrinda Store’s retail performance across
 
 # Vrinda Store Retail Dashboard 📊
 
-This repository showcases an Excel-based dashboard analyzing Vrinda Store’s retail performance. It provides visual insights into sales trends, customer demographics, order statuses, and channel distribution — designed to support strategic decisions in inventory, marketing, and fulfillment.
+This repository features an Excel-based dashboard analyzing Vrinda Store’s retail performance. It provides visual insights into sales trends, customer demographics, order outcomes, and channel distribution — designed to support strategic decisions in inventory, marketing, and fulfillment.
 
 ## 🔍 Dashboard Highlights
 
@@ -11,7 +11,7 @@ This repository showcases an Excel-based dashboard analyzing Vrinda Store’s re
   Monthly breakdown of order volume and revenue trends
 
 - **Sales by Gender**  
-  Women account for 61% of total sales, indicating strong engagement in female-targeted categories
+  Women: 61% | Men: 39% — strong engagement in female-targeted categories
 
 - **Order Status Distribution**  
   Delivered: 53% | Returned: 25% | Refunded: 12% | Cancelled: 10%
@@ -29,3 +29,21 @@ This repository showcases an Excel-based dashboard analyzing Vrinda Store’s re
 ## 📁 Files Included
 
 - `Vrinda Store Data Analysis.xlsx`: Interactive Excel dashboard with slicers and charts
+
+## 🛠️ Tools Used
+
+- Microsoft Excel (Pivot Tables, Slicers, Charts)
+- Data Cleaning & Segmentation
+- Visual Storytelling for Stakeholder Clarity
+
+## 📣 Author
+- Neil Sable  
+
+---
+## 🙏 Inspiration & Learning
+
+This dashboard was inspired by @rishabhmishra (https://github.com/rishabhnmishra) and his YouTube tutorials on Excel-based data analysis. I followed his guidance to understand dashboard design and storytelling, and built my own version from scratch as a practice project to apply those concepts.
+
+All visuals, structure, and insights in this repository reflect my personal interpretation and learning journey.
+
+
